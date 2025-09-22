@@ -1,0 +1,12 @@
+streamlit
+nltk
+textblob
+scikit-learn
+transformers[tf]
+tensorflow
+PyPDF2
+language-tool-python
+rake-nltk
+pdfplumber
+python-docx
+joblib
