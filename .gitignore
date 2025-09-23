@@ -1,0 +1,35 @@
+# Exclude project setup guide
+PROJECT_SETUP_GUIDE.md
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (optional - uncomment if you want to exclude trained models)
+# *.joblib
+# *.pkl
+# *.model
+
+# Log files
+*.log
+
+# Environment variables
+.env
