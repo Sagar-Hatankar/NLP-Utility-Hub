@@ -198,7 +198,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, issues, or feature requests:
 - Open an issue on [GitHub](https://github.com/Sagar-Hatankar/NLP-Utility-Hub/issues)
-- Check the [PROJECT_SETUP_GUIDE.md](PROJECT_SETUP_GUIDE.md) for detailed setup instructions
 
 ---
 
